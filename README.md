@@ -1,0 +1,2 @@
+# hackmud
+My Hackmud musings
